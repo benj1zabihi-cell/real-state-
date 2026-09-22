@@ -1,0 +1,6 @@
+{
+  "name": "Persian Luxury Waterfront Estates",
+  "description": "Bespoke Persian waterfront luxury real estate editorial platform showcasing ultra-prime estates, private shoreline properties, and off-market confidential acquisitions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
